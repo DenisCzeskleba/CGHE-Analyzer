@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+Plain Files/02_Results/*
+!Plain Files/02_Results/.gitkeep
